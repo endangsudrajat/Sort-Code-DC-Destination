@@ -3,7 +3,7 @@ const dataDC = [
     { no: 2, name: "Cakung DC", codes: ["A","IDA"] },
     { no: 3, name: "Cikarang Barat RDC - Rungkut", codes: ["N"] },
     { no: 4, name: "Depok DC", codes: ["AJ", "BQ"] },
-    { no: 5, name: "Sunter DC", codes: ["F"] },
+    { no: 5, name: "Sunter DC", codes: ["F", "CH-CACHE"] },
     { no: 6, name: "Tapos DC", codes: ["AB","AL","AM","BW","CH","L"] },
     { no: 7, name: "Cakung 4 DC", codes: ["CE"] },
     { no: 8, name: "Bekasi DC", codes: ["AP","BD","BN","BV","CD","EXP-WH-01","H","I","J","P","Q","X","Y"] },
